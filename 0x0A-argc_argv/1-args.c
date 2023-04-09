@@ -5,7 +5,7 @@
  * @argc: count commands
  * @argv: vector commands
  * Return: 0 success
- * */
+ */
 
 int main(int argc, char *argv[])
 {
